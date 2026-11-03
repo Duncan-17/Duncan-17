@@ -8,8 +8,8 @@ I like building practical tools for problems I actually have. I'm looking for fu
 
 | Project | What it is |
 |---|---|
+| **[United Clash Dashboard](https://github.com/Duncan-17/clash-royale-clan-dashboard)** | War-performance dashboard and roster scoring for my 50-member Clash Royale clan, used by its leaders for promotions and kicks. JavaScript, Google Apps Script, Cloudflare. [Live site](https://unitedclash.pages.dev) |
 | **Meal Prep** | Offline-first meal-planning PWA (React, TypeScript, Cloudflare Workers + D1) with device sync and 545 tests, in daily use. Repo going public after I add login. |
-| **Clash Royale Clan Dashboard** | Cloudflare-hosted analytics dashboard tracking long-term stats for a 50+ member clan |
 | **Clash Royale AI Bot** (in progress) | Bot that reads the game screen with a YOLO vision model, controls an emulator, and plays with rule-based decision logic |
 | **[GameMaker Platformer](https://github.com/Duncan-17/gamemaker-platformer)** | 2D action platformer I built in high school |
 
