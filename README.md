@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Duncan
 
-<!--
-**Duncan-17/Duncan-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior at **Michigan State University** studying Computer Science (Cybersecurity concentration) with a minor in Business, graduating May 2027.
 
-Here are some ideas to get you started:
+I like building practical tools for problems I actually have. I'm looking for full-time roles in tech consulting, security, and software starting in 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | What it is |
+|---|---|
+| **Meal Prep** | Offline-first meal-planning PWA (React, TypeScript, Cloudflare Workers + D1) with device sync and 545 tests, in daily use. Repo going public after I add login. |
+| **Clash Royale Clan Dashboard** | Cloudflare-hosted analytics dashboard tracking long-term stats for a 50+ member clan |
+| **Clash Royale AI Bot** (in progress) | Bot that reads the game screen with a YOLO vision model, controls an emulator, and plays with rule-based decision logic |
+| **[GameMaker Platformer](https://github.com/Duncan-17/gamemaker-platformer)** | 2D action platformer I built in high school |
+
+## Experience
+
+**Dana-Farber Cancer Institute**, Hospital Information Systems Intern (Summer 2025): Python automation for lab data transfers, refactoring a 40,000+ line JavaScript LIMS, Docker, HIPAA-compliant development.
+
+## Toolbox
+
+Python · JavaScript / TypeScript · Java · C / C++ · SQL · React · Docker · Linux · Git · Cloudflare
+
+**Contact:** [LinkedIn](https://linkedin.com/in/duncan-canzano)
